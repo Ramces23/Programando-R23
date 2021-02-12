@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa recopilatorio de soluciones matematicas", "Programa recopilatorio de soluciones matematicas.csproj", "{C52D476C-EBF8-428B-95A5-1244854133DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C52D476C-EBF8-428B-95A5-1244854133DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52D476C-EBF8-428B-95A5-1244854133DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52D476C-EBF8-428B-95A5-1244854133DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52D476C-EBF8-428B-95A5-1244854133DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69C632F-E3DA-426A-A91C-7DA60385B5D5}
+	EndGlobalSection
+EndGlobal

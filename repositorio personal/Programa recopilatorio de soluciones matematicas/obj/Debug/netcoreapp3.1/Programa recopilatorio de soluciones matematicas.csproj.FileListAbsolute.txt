@@ -1,0 +1,13 @@
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\bin\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.exe
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\bin\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.deps.json
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\bin\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.runtimeconfig.json
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\bin\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.runtimeconfig.dev.json
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\bin\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.dll
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\bin\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.pdb
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.csprojAssemblyReference.cache
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.AssemblyInfo.cs
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.dll
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.pdb
+C:\Users\SONY\source\repos\repositorio personal\Programa recopilatorio de soluciones matematicas\obj\Debug\netcoreapp3.1\Programa recopilatorio de soluciones matematicas.genruntimeconfig.cache
